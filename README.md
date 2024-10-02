@@ -14,21 +14,6 @@ This is a Kanban board application built using React JS that interacts with the 
 
 You can see a live demo of the Kanban board application [here](https://nandiniquickshellfrontend.vercel.app/).
 
-## Installation
-
-To run the Kanban board application locally, follow these steps:
-
-1. Install the required dependencies:
-    ```bash
-    npm install
-    ```
-2. Start the development server:
-    ```bash
-    npm start
-    ```
-3. Open your web browser and visit http://localhost:3000 to use the application.
-
-
 ## Usage
 
 1. Click the "display" button to fetch and display the tickets from the provided API.
